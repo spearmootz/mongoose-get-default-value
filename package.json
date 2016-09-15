@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-get-default-value",
+  "version": "1.0.0",
+  "description": "Get the default path value set on a schema for a model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spearmootz/mongoose-get-default-value.git"
+  },
+  "keywords": [
+    "mongoose",
+    "default",
+    "value",
+    "plugin",
+    "plugins"
+  ],
+  "author": "Ricardo Spear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spearmootz/mongoose-get-default-value/issues"
+  },
+  "homepage": "https://github.com/spearmootz/mongoose-get-default-value#readme"
+}
