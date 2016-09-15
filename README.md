@@ -25,6 +25,6 @@ adds a static function ont he model to get the default value.  Works on nested p
 
     const Sample = mongoose.model('sample', sampleSchema);
 
-    Sample.getDefaultValue('default'); // returns "this is a test"
+    Sample.getDefaultValue('fakeProperty'); // returns "this is a test"
 
   
