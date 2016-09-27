@@ -1,5 +1,5 @@
 # mongoose-get-default-value
-Get the default path value set on a schema for a model **Tested for node 6.x.x**
+Get the default path value set on a schema for a model
 
 adds a static function ont he model to get the default value.  Works on nested properties Example: "fakeProperty.deeperProperty"
 
